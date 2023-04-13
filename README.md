@@ -1,4 +1,3 @@
-# Personal Blog
 # PersonalBlog
 
 # project-documentation
