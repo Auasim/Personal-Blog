@@ -1,16 +1,19 @@
 # Personal Blog
-# SwagIndia
+# PersonalBlog
 
 # project-documentation
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=200px src="swag.png" alt="Project logo"></a>
+ <img width=500px height=200px src="Portfolio.png" alt="Project logo"></a>
+
+ ## ✍️ Host Link <a name = "authors"></a>
+- (https://auasim.github.io/Personal-Blog/)
 </p>
 
 
 
-<h3 align="center">Swag India</h3>
+<h3 align="center">Personal Portfolio</h3>
 
 ---
 
@@ -23,14 +26,18 @@
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
 - [Usage](#usage)
-- [Flow Chart](#flowchart)
 - [TODO](../TODO.md)
 - [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Fully Functional E-commerce website Swag of India is a responsive e-commerce website. The technologies used in this project are HTML, CSS, Vanilla JavaScript and Bootstrap. There are a few important modules in the project like home page, image carousel, product listing page, product page, cart page, wishlist page etc. The data is accessed using ajax call and then rendered into the webpage using dynamic html template created using string literals. For cart-page we are using localstorage to temporarily storing data before clicking on the checkout button. I took almost 40 - 50 hrs to complete this project. SkillLync helped me by providing the wire-frames for all relevant feature pages
+A personal portfolio is a collection of your professional or creative work, accomplishments, skills, and experiences that you use to showcase your abilities and promote yourself to potential employers, clients, or collaborators. It can include a range of materials, such as writing samples, design projects, photographs, videos, code samples, certificates, awards, and testimonials.
+
+Having a well-designed and organized personal portfolio can help you stand out from other candidates and demonstrate your competence and creativity. It can also serve as a record of your progress and growth over time, as you add new projects and skills to your portfolio.
+
+When creating a personal portfolio, it's important to consider your target audience and their interests and needs, and to select your best and most relevant work to showcase. You should also provide context and explanations for each item in your portfolio, highlighting the skills and expertise you used to complete each project.
+
+There are various platforms and tools available for creating and hosting a personal portfolio, including website builders, social media platforms, and specialized portfolio platforms. It's important to choose a platform that fits your needs and goals, and to keep your portfolio updated and relevant as you continue to develop your skills and experiences
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
@@ -80,17 +87,14 @@ Add notes about how to use the system.
 ## 🚀 Deployment <a name = "deployment"></a>
 Add additional notes about how to deploy this on a live system.
 
-## ⛏️ Flow Chart <a name = "flowchart"></a>
 
-![bg width:1000px](./swagindiaflowchart.png)
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [HTML]
+- [CSS]
+- [JavaScript]
+- [ScrollReveal]
 
-## ✍️ Authors <a name = "authors"></a>
-- [@SkillLymc](https://github.com/kylelobo) - FSD
+
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
